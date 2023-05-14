@@ -1,0 +1,50 @@
+body
+{
+    background-color: aqua;
+}
+
+#score
+{
+    margin-left: 65px;
+    font-size: 33px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#timer
+{
+    margin-right: 65px;
+    float: right;
+    font-size: 33px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#sketchBeDrawn
+{
+    color: mediumorchid;
+    font-size: 30px;
+}
+
+#title
+{
+    background-color: rgb(246, 163, 249);
+    border:4px solid rgb(242, 0, 250);
+    width: 500px;
+    font-size:50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    border-radius: 25px;
+    color: rgb(123, 0, 255)
+}
+
+#sketch
+{
+    font-family:monospace;
+    font-size: 30px;
+}
+
+#confidence
+{
+    font-family:monospace;
+    font-size: 30px;
+}
+
